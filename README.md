@@ -41,7 +41,7 @@ Este repositorio contiene un análisis histórico de estadísticas de MLB (Grand
 
 ## 📚 Recursos usados
 
-- [Lahman Database](http://www.seanlahman.com/baseball-archive/statistics/)
+- [Lahman Database](https://www.kaggle.com/datasets/open-source-sports/baseball-databank)
 - Power BI Desktop
 - DAX: `CALCULATE`, `SUM`, `FILTER`, `SUMMARIZE`
 
